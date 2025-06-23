@@ -1,0 +1,1 @@
+print("KONO DIO DA!")
