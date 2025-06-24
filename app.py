@@ -1,1 +1,1 @@
-print("KONO DIO DA!")
+print("KONO DIO DA!!")
